@@ -34,6 +34,18 @@ The project utilizes the *Credit Risk Benchmark Dataset*.
 
 ---
 
+## Machine Learning Models & Results
+
+> We benchmarked multiple classifiers to identify the most robust model for credit risk prediction, with *XGBoost* demonstrating the highest performance after optimization.
+
+| Model | Accuracy | Status |
+| :--- | :---: | :--- |
+| XGBoost Classifier | 93.69% | Selected Model |
+| Random Forest | 92.45% | Benchmarked |
+| Logistic Regression | 84.12% | Benchmarked |
+
+---
+
 ## 🛠️ Installation & Usage
 1. Clone the repository:
    ```bash
@@ -41,7 +53,9 @@ The project utilizes the *Credit Risk Benchmark Dataset*.
 2. Install dependencies:
    ```bash
    pip install xgboost shap scikit-learn seaborn matplotlib
-3. Run the notebook Notebooks/Credit_Risk_Pipeline.ipynb to reproduce the results.
+3. Environment & Requirements:
+   Python, XGBoost, SHAP, Scikit-learn, Pandas / NumPy, Seaborn / Matplotlib.
+4. Run the notebook Notebooks/Credit_Risk_Pipeline.ipynb to reproduce the results.
 
 ---
 
@@ -59,3 +73,7 @@ Balanced Confusion Matrix showing our model's capability after applying cost-sen
 ## Authors
 * Abdulrahman Alzahrani - [Prince Sultan University]
 * Osamah Dhuwayhi - [Prince Sultan University]
+
+<p align="center">
+Copyright 2026 | Credit Risk Fairness Study
+</p>
