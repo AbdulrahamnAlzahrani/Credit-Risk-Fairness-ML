@@ -55,6 +55,7 @@ The project utilizes the *Credit Risk Benchmark Dataset*.
    pip install xgboost shap scikit-learn seaborn matplotlib
 3. Environment & Requirements:
    Python, XGBoost, SHAP, Scikit-learn, Pandas / NumPy, Seaborn / Matplotlib.
+   
 4. Run the notebook Notebooks/Credit_Risk_Pipeline.ipynb to reproduce the results.
 
 ---
