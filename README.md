@@ -1,4 +1,4 @@
-# Enhancing Fairness and Interpretability in Credit Risk Assessment 🚀
+# Enhancing Fairness and Interpretability in Credit Risk Assessment
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange.svg)](https://xgboost.readthedocs.io/)
@@ -27,7 +27,7 @@ This repository contains the complete *MIL (Machine Learning) Pipeline* for our 
 
 ---
 
-## 📉 Dataset Information
+##  Dataset Information
 The project utilizes the *Credit Risk Benchmark Dataset*.
 - *Source:* [Kaggle - Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
 - *Scale:* 32,581 records with 12 behavioral and demographic features.
@@ -46,7 +46,7 @@ The project utilizes the *Credit Risk Benchmark Dataset*.
 
 ---
 
-## 🛠️ Installation & Usage
+##  Installation & Usage
 1. Clone the repository:
    ```bash
    git clone [https://github.com/AbdulrahamnAlzahrani/Credit-Risk-Fairness-ML.git](https://github.com/AbdulrahamnAlzahrani/Credit-Risk-Fairness-ML.git)
@@ -60,7 +60,7 @@ The project utilizes the *Credit Risk Benchmark Dataset*.
 
 ---
 
-## 📑 Visual Results
+##  Visual Results
 Model Interpretability (SHAP)
 The model's decisions are backed by logical financial indicators such as Loan-to-Income ratio and interest rates.
 
