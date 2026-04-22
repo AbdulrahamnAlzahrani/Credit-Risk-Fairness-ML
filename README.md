@@ -8,7 +8,7 @@ This repository contains the complete *MIL (Machine Learning) Pipeline* for our 
 
 ---
 
-## 📊 Project Highlights
+##  Project Highlights
 - *Accuracy:* Achieved a peak predictive accuracy of *93.69%*.
 - *Fairness:* Minimized the demographic fairness gap to an impressive *0.0001*.
 - *Explainability:* Fully transparent decision-making process using *SHAP* values.
@@ -16,14 +16,14 @@ This repository contains the complete *MIL (Machine Learning) Pipeline* for our 
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 | Folder | Description |
 | :--- | :--- |
-| 📂 *Data/* | Contains the benchmark credit_risk_dataset.csv. |
-| 📂 *Notebooks/* | The main .ipynb file with the full code pipeline. |
-| 📂 *Output/* | All generated visualizations (Confusion Matrices, SHAP plots, etc.). |
-| 📂 *IEEE_paper/* | The final technical research paper in PDF format. |
+|  *Data/* | Contains the benchmark credit_risk_dataset.csv. |
+|  *Notebooks/* | The main .ipynb file with the full code pipeline. |
+|  *Output/* | All generated visualizations (Confusion Matrices, SHAP plots, etc.). |
+|  *IEEE_paper/* | The final technical research paper in PDF format. |
 
 ---
 
